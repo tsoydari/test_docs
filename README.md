@@ -1,5 +1,6 @@
 # Test project
 Highlight about project
+TOC {:toc}
 
 ## Overview
 
