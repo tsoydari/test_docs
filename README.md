@@ -1,6 +1,9 @@
 # Test project
 Highlight about project  
-TOC {:toc}
+<nav class="toc-fixed" markdown="1">
+* TOC
+{:toc}
+</nav>
 
 ## Overview
 
